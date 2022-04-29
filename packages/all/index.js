@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@murong/eslint-config-react',
-    '@murong/eslint-config-vue',
+    '@murongg/eslint-config-react',
+    '@murongg/eslint-config-vue',
   ],
 }

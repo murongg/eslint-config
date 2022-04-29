@@ -1,6 +1,6 @@
-# @murong/eslint-config
+# @murongg/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@murong/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@murong/eslint-config)
+[![npm](https://img.shields.io/npm/v/@murongg/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@murongg/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -14,14 +14,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @murong/eslint-config
+pnpm add -D eslint @murongg/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@murong"
+  "extends": "@murongg"
 }
 ```
 

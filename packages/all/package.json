@@ -1,5 +1,5 @@
 {
-  "name": "@murong/eslint-config",
+  "name": "@murongg/eslint-config",
   "version": "0.0.1",
   "description": "",
   "keywords": [],
@@ -13,8 +13,8 @@
     "eslint": ">=7.4.0"
   },
   "dependencies": {
-    "@murong/eslint-config-react": "workspace:*",
-    "@murong/eslint-config-vue": "workspace:*",
+    "@murongg/eslint-config-react": "workspace:*",
+    "@murongg/eslint-config-vue": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
     "eslint-plugin-eslint-comments": "^3.2.0",

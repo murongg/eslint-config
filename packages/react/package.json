@@ -1,5 +1,5 @@
 {
-  "name": "@murong/eslint-config-react",
+  "name": "@murongg/eslint-config-react",
   "version": "0.0.1",
   "description": "",
   "keywords": [],
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@murong/eslint-config-ts": "workspace:*",
+    "@murongg/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.29.4"
   },
   "devDependencies": {
