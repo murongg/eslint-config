@@ -1,0 +1,6 @@
+{
+  "extends": "@murong",
+  "plugins": [
+    "murong"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-antfu",
-  "version": "0.21.1",
+  "name": "eslint-plugin-murong",
+  "version": "0.0.0",
   "license": "MIT",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",

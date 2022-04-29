@@ -1,4 +1,4 @@
-# @antfu/eslint-config
+# @murong/eslint-config
 
 [![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@antfu/eslint-config)
 
@@ -53,14 +53,7 @@ Create `.vscode/settings.json`
 }
 ```
 
-## Check Also
-
-- [antfu/dotfiles](https://github.com/antfu/dotfiles) - My dotfiles
-- [antfu/vscode-settings](https://github.com/antfu/vscode-settings) - My VS Code settings
-- [antfu/eslint-config](https://github.com/antfu/eslint-config) - My ESLint config
-- [antfu/ts-starter](https://github.com/antfu/ts-starter) - My starter template for TypeScript library
-- [antfu/vitesse](https://github.com/antfu/vitesse) - My starter template for Vue & Vite app
-
 ## License
+Fork: [antfu/dotfiles](https://github.com/antfu/dotfiles) - My dotfiles
 
 MIT
