@@ -1,6 +1,6 @@
 # @murong/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@antfu/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@antfu/eslint-config)
+[![npm](https://img.shields.io/npm/v/@murong/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@murong/eslint-config)
 
 - Single quotes, no semi
 - Auto fix for formatting (aimed to be used standalone without Prettier)
@@ -14,14 +14,14 @@
 ### Install
 
 ```bash
-pnpm add -D eslint @antfu/eslint-config
+pnpm add -D eslint @murong/eslint-config
 ```
 
 ### Config `.eslintrc`
 
 ```json
 {
-  "extends": "@antfu"
+  "extends": "@murong"
 }
 ```
 
@@ -54,6 +54,6 @@ Create `.vscode/settings.json`
 ```
 
 ## License
-Fork: [antfu/dotfiles](https://github.com/antfu/dotfiles) - My dotfiles
+Fork: [antfu/eslint-config](https://github.com/antfu/eslint-config) - eslint-config
 
 MIT
