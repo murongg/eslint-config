@@ -30,9 +30,6 @@
     "yaml-eslint-parser": "^1.0.1"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
-  },
-  "publishConfig": {
-    "access": "public"
+    "eslint": "^8.16.0"
   }
 }
