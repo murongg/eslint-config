@@ -2,9 +2,9 @@
   "name": "@murongg/eslint-config-react",
   "version": "0.1.2",
   "description": "",
-  "keywords": [],
-  "license": "MIT",
   "author": "MuRong <admin@imuboy.cn> (https://github.com/murongg/)",
+  "license": "MIT",
+  "keywords": [],
   "main": "index.js",
   "files": [
     "index.js"
