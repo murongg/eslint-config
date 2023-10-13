@@ -2,7 +2,7 @@
   "name": "@murongg/eslint-config-monorepo",
   "version": "0.2.0",
   "private": true,
-  "author": "MuRong <admin@imuboy.cn> (https://github.com/murongg/)",
+  "author": "MuRong <hi@mrong.me> (https://github.com/murongg/)",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
@@ -14,6 +14,6 @@
     "bumpp": "^7.1.1",
     "eslint": "^8.16.0",
     "eslint-plugin-murong": "workspace:*",
-    "typescript": "^4.7.2"
+    "typescript": "^5.2.2"
   }
 }

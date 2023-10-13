@@ -16,7 +16,7 @@
     "@murongg/eslint-config-react": "workspace:*",
     "@murongg/eslint-config-vue": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.26.0",
-    "@typescript-eslint/parser": "^5.26.0",
+    "@typescript-eslint/parser": "^6.7.5",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-html": "^6.2.0",
     "eslint-plugin-import": "^2.26.0",
